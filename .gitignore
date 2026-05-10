@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.autosave
+octave-workspace
+*.mat
+.DS_Store
+Thumbs.db
+.vscode/
